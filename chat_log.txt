@@ -1,0 +1,13 @@
+[Thu Oct 16 16:04:14 2025] Client connected.
+[Thu Oct 16 16:04:22 2025] Client connected.
+[Thu Oct 16 16:04:25 2025] Ayush: hi
+
+[Thu Oct 16 16:04:29 2025] KIrtan: hi
+
+[Thu Oct 16 17:41:20 2025] Server started (FIFO mode)...
+[Thu Oct 16 17:41:44 2025] kirtan joined the chat.
+
+[Thu Oct 16 17:41:54 2025] ayush joined the chat.
+
+[Thu Oct 16 17:42:15 2025] kirtan: hiii
+[Thu Oct 16 17:42:23 2025] ayush: hii
